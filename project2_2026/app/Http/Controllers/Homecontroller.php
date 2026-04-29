@@ -10,13 +10,14 @@ class Homecontroller extends Controller
     {
         return view('home');
     }
+
     public function profil()
     {
-    return view('profil');
+        return view('profil');
     }
 
     public function kontak()
     {
-    return view('kontak');
+        return view('kontak');
     }
 }
