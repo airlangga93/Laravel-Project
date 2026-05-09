@@ -11,8 +11,9 @@
             <a href="/contact" class="text-gray-700 hover:text-green-600">Kontak</a>
         </nav>
 
-        <a href="/profile" class="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600">
-            Donasi Sekarang
+        <a href="/campaign"
+            class="bg-green-500 text-white px-4 py-2 rounded">
+             Donasi Sekarang
         </a>
 
     </div>
